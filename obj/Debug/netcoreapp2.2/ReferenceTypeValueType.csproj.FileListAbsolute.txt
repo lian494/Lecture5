@@ -1,0 +1,11 @@
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture5\ReferenceTypeValueType\bin\Debug\netcoreapp2.2\ReferenceTypeValueType.deps.json
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture5\ReferenceTypeValueType\bin\Debug\netcoreapp2.2\ReferenceTypeValueType.runtimeconfig.json
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture5\ReferenceTypeValueType\bin\Debug\netcoreapp2.2\ReferenceTypeValueType.runtimeconfig.dev.json
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture5\ReferenceTypeValueType\bin\Debug\netcoreapp2.2\ReferenceTypeValueType.dll
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture5\ReferenceTypeValueType\bin\Debug\netcoreapp2.2\ReferenceTypeValueType.pdb
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture5\ReferenceTypeValueType\obj\Debug\netcoreapp2.2\ReferenceTypeValueType.csprojAssemblyReference.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture5\ReferenceTypeValueType\obj\Debug\netcoreapp2.2\ReferenceTypeValueType.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture5\ReferenceTypeValueType\obj\Debug\netcoreapp2.2\ReferenceTypeValueType.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture5\ReferenceTypeValueType\obj\Debug\netcoreapp2.2\ReferenceTypeValueType.AssemblyInfo.cs
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture5\ReferenceTypeValueType\obj\Debug\netcoreapp2.2\ReferenceTypeValueType.dll
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture5\ReferenceTypeValueType\obj\Debug\netcoreapp2.2\ReferenceTypeValueType.pdb
